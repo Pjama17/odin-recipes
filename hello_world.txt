@@ -1,0 +1,7 @@
+I cannot believe I did not add anything to this file.
+Anyway, I am adding text now.
+Then I will do the git changes to update the GitHub.
+Longer term, I would like to find out how to:
+   - wrap text to 72 lines
+   - enlarge the text in the tiny side panel
+   
