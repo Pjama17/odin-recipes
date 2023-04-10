@@ -4,4 +4,11 @@ Then I will do the git changes to update the GitHub.
 Longer term, I would like to find out how to:
    - wrap text to 72 lines
    - enlarge the text in the tiny side panel
-   
+
+   Well - I do not understand - I saved the changes 
+   to this file and followed the instructions to
+   update git.
+
+   And the file on my GitHub is still empty.
+   Therefore I am adding more text. From line 8 
+   onward, to try again.
